@@ -8,7 +8,7 @@ from gpiozero import DigitalInputDevice
 
 
 def capture():
-    output_dir = Path("/home/epitech/Desktop/SafeMachine/Results")
+    output_dir = Path("/home/epitech/Desktop/SecureMachine/Results")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     output_file = output_dir / (
