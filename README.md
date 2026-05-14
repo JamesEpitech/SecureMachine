@@ -1,5 +1,4 @@
 # SecureMachine
-SecureMachine
 
 SecureMachine is a Raspberry Pi project that detects movement or vibration using a tilt sensor and automatically records a video when activity is detected.
 
