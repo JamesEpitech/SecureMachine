@@ -23,7 +23,7 @@ Install required packages:
 
 ```bash
 sudo apt update
-sudo apt install python3-gpiozero rpicam-apps
+sudo apt install python3-gpiozero rpicam-apps python-dotenv
 ```
 
 ## Project Structure
